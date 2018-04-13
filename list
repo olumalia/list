@@ -1,4 +1,48 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Kids Films",101 Dalmations
+http://www.deadlyblogger.com/NewRelease/dal1.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Kids Films",A Christmas Carol
+http://www.deadlyblogger.com/NewRelease/acc2009.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Kids Films",A Disney Christmas Gift
+http://www.deadlyblogger.com/NewRelease/disneyc1.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Kids Films",Cinderella (1950)
+http://www.deadlyblogger.com/NewRelease/cinder1.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Kids Films",Ducktales The Movie
+http://www.deadlyblogger.com/NewRelease/ducktales1990.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Kids Films",Epic (2013)
+http://www.deadlyblogger.com/NewRelease/epic1.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Kids Films",Finding Nemo
+http://www.deadlyblogger.com/NewRelease/nemo2003.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Kids Films",Free Birds
+http://www.deadlyblogger.com/NewRelease/freebirds2013.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Kids Films",Snowman
+http://www.deadlyblogger.com/NewRelease/snowman1969.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Kids Films",Frozen
+http://www.deadlyblogger.com/NewRelease/disneyfrozen.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Family Films",Hocus Pocus
+http://www.deadlyblogger.com/NewRelease/hocuspocus.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Family Films",Home Alone
+http://www.deadlyblogger.com/NewRelease/homealone1.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Family Films",Home Alone 2
+http://www.deadlyblogger.com/NewRelease/homealone2.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Family Films",Home Alone 3
+http://www.deadlyblogger.com/NewRelease/homealone3.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Family Films",Home Alone 4
+http://www.deadlyblogger.com/NewRelease/homealone4.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ya5wft62" group-title="Films",My Friend Dahma 2017
 https://bobmovies.net/hl/My.Friend.Dahmer.2017.WEB-DL.m3u8
 
